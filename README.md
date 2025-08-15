@@ -1,6 +1,6 @@
 # BASIC NVIM INSTALL WITH LAZY
 
-- [LAZY](ttps://github.com/folke/lazy.nvim)
+[LAZY](https://github.com/folke/lazy.nvim)
 
 # Inlcudes
 
