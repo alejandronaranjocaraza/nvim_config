@@ -1,4 +1,4 @@
-Alejandro Naranjo Caraza
+Alejandro Naranjo Caraza<br>
 Created 2024-05-01
 
 # BASIC NVIM INSTALL WITH LAZY
