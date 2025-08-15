@@ -1,8 +1,11 @@
+Alejandro Naranjo Caraza
+Created 2024-05-01
+
 # BASIC NVIM INSTALL WITH LAZY
 
-[LAZY NVIM](https://github.com/folke/lazy.nvim)
+[LAZY Nvim](https://github.com/folke/lazy.nvim)
 
-# Inlcudes
+# INCLUDES
 
 1. [LuaSnip Text Formatting](https://github.com/L3MON4D3/LuaSnip)
 2. [Telescope](https://github.com/nvim-telescope/telescope.nvim)
